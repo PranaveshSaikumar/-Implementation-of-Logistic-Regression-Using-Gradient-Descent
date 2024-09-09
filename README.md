@@ -94,15 +94,19 @@ print(y_prednew)
 
 ## Output:
 ACCURACY:
+
 ![image](https://github.com/user-attachments/assets/04e11b66-14b5-46a3-8a20-965660ae4318)
 
 Y Pred:
+
 ![image](https://github.com/user-attachments/assets/d3c22a6d-9546-49a8-a44a-08659382cd8c)
 
 Y:
+
 ![image](https://github.com/user-attachments/assets/1abc1442-bbe6-47f5-a1db-0c49ffbabf48)
 
 Pred New:
+
 ![image](https://github.com/user-attachments/assets/141c3b32-62d7-4edc-ac0e-81f4ec7eab45)
 
 
